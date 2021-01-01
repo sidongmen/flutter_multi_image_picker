@@ -1,16 +1,17 @@
 # flutter_multi_image_picker
 
-A new Flutter project.
+Multi image picker in Flutter.
+플러터 사진 다중 선택
 
-## Getting Started
+## Screenshots
+--------------
 
-This project is a starting point for a Flutter application.
+<div>
+  <img width="200" src="https://user-images.githubusercontent.com/57187912/103436601-b9a37200-4c60-11eb-9fb6-4ae1dfbb34ca.png">
+  <img width="200" src="https://user-images.githubusercontent.com/57187912/103436597-b1e3cd80-4c60-11eb-9d78-028ddaddf348.png">
+</div>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Logbook(개발일지)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2020.01.01 - pick images with path(사진 다중 선택 시 주소값 가져오기)
